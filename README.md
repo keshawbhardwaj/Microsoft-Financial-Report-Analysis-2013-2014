@@ -8,6 +8,11 @@ The sample dataset provided consists of information about sales transactions of 
 
 3. Product: This column indicates the specific product that was sold in the transaction. The distinct products mentioned in the dataset are Amarilla, Carretera, Montana, Paseo, Velo, and VTT. Each product represents a different item or model that was purchased.
 
+Queries:
+1. Which month and year had the most profit?
+2. Where is the company seeing the most success (by country/region)?
+3. Which product and segment should the company continue to invest in?
+
 Findings:
 
 1. The total gross sales of the company from October 2013 to December 2014 amounted to $127.93 million.
